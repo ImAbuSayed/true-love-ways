@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/true-love-ways/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for True Love Ways](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/true-love-ways/) |
+| **Get License** | [Secure Licensing Rights for True Love Ways](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/true-love-ways/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when the shadow falls
+> Shadows are dancing on these rustic walls
+> Your whisper pulls me through the midnight haze
+> And these are my true love ways
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
