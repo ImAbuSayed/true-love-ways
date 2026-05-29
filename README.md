@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/true-love-ways/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for True Love Ways](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/true-love-ways/) |
+| **Get License** | [Music Rights & Licensing for True Love Ways](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/true-love-ways/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `eef1b99c8172f2e62bfeabfc36dcae687c32af36481251301168c9f8d2713bed` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
